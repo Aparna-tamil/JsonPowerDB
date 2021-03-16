@@ -20,8 +20,11 @@ Sample project of JPDB
  - learn to use talend API tester.
  
  ## Snapshots
- ![](snaps/2.PNG)
- ![](snaps/1.PNG)
- ![](snaps/3.PNG)
- ![](snaps/4.PNG)
+ - ![](snaps/2.PNG)
+ 
+ - ![](snaps/1.PNG)
+ 
+-  ![](snaps/4.PNG)
+ 
+ - ![](snaps/3.PNG)
  

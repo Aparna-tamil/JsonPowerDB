@@ -1,6 +1,6 @@
 # JsonPowerDB
 Sample project of JPDB
-## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
+## This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
 
 
 ### JsonPowerDB:
@@ -20,8 +20,8 @@ Sample project of JPDB
  - learn to use talend API tester.
  
  ## Snapshots
- ![](snaps/2.png)
- ![](snaps/1.png)
- ![](snaps/3.png)
- ![](snaps/4.png)
+ ![](snaps/2.PNG)
+ ![](snaps/1.PNG)
+ ![](snaps/3.PNG)
+ ![](snaps/4.PNG)
  

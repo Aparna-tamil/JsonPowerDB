@@ -14,10 +14,14 @@ Sample project of JPDB
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-####Table of contents
+#### Table of contents
  - CRUD using JsonPowerDB
  - learnt about iml and irl requests.
  - learn to use talend API tester.
  
- ##Snapshots
- ![](snaps/a1.png)
+ ## Snapshots
+ ![](snaps/2.png)
+ ![](snaps/1.png)
+ ![](snaps/3.png)
+ ![](snaps/4.png)
+ 
